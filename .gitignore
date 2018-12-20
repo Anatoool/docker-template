@@ -1,0 +1,11 @@
+node_modules
+/.idea
+.idea\
+doc/generated
+build
+package-lock.json
+./server/
+.vscode/**
+dist
+doc
+
